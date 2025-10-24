@@ -1,0 +1,34 @@
+2025-10-24 20:33:10,592 - INFO - Bot initialized (testnet=True)
+2025-10-24 20:33:12,423 - ERROR - Market order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-10-24 20:33:12,617 - ERROR - Limit order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-10-24 20:35:41,221 - INFO - Bot initialized (testnet=True)
+2025-10-24 20:35:41,724 - INFO - Time offset set to -44159 ms
+2025-10-24 20:35:42,946 - ERROR - Market order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-10-24 20:35:43,134 - ERROR - Limit order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-10-24 20:37:11,155 - INFO - Bot initialized (testnet=True)
+2025-10-24 20:37:13,004 - ERROR - Market order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-10-24 20:37:13,350 - ERROR - Limit order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-10-24 20:37:14,592 - ERROR - Stop-Limit order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-10-24 20:58:43,034 - INFO - Bot initialized (testnet=True)
+2025-10-24 20:58:44,137 - ERROR - Market order failed: APIError(code=-2014): API-key format invalid.
+2025-10-24 20:59:59,445 - INFO - Bot initialized (testnet=True)
+2025-10-24 20:59:59,597 - INFO - Time offset synced with server: -44123 ms
+2025-10-24 21:00:00,469 - ERROR - Market order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-10-24 21:00:00,608 - ERROR - Limit order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-10-24 21:02:47,291 - INFO - Bot initialized (testnet=True)
+2025-10-24 21:02:47,447 - INFO - Time offset synced with server: -74 ms
+2025-10-24 21:02:48,253 - INFO - Market order success: {'orderId': 6931936703, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ1508a97061d6f2777cb86e', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761319968171}
+2025-10-24 21:02:48,406 - ERROR - Limit order failed: APIError(code=-4024): Limit price can't be lower than 104945.08.
+2025-10-24 21:05:28,755 - INFO - Bot initialized (testnet=True)
+2025-10-24 21:05:29,397 - INFO - Time offset synced with server: -86 ms
+2025-10-24 21:05:30,661 - INFO - Market order success: {'orderId': 6932256017, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ1d2bf31720c910f5f48e39', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761320130588}
+2025-10-24 21:05:31,324 - ERROR - Limit order failed: APIError(code=-4014): Price not increased by tick size.
+2025-10-24 21:05:33,304 - ERROR - Stop-limit order failed: APIError(code=-4014): Price not increased by tick size.
+2025-10-24 21:06:03,638 - INFO - Bot initialized (testnet=True)
+2025-10-24 21:06:03,801 - INFO - Time offset synced with server: -76 ms
+2025-10-24 21:06:04,511 - INFO - Market order success: {'orderId': 6932321662, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ369794d9dcfa43d1f12b4a', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761320164436}
+2025-10-24 21:06:04,659 - ERROR - Limit order failed: APIError(code=-4024): Limit price can't be lower than 104797.83.
+2025-10-24 21:07:59,808 - INFO - Bot initialized (testnet=True)
+2025-10-24 21:07:59,950 - INFO - Time offset synced with server: -76 ms
+2025-10-24 21:08:00,622 - INFO - Market order success: {'orderId': 6932543298, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ20fcd6fc26e60cd4c92f56', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761320280521}
+2025-10-24 21:08:00,831 - INFO - Limit order success: {'orderId': 6932543465, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ42f1c8173d9e59034e3d51', 'price': '105100.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761320280704}
